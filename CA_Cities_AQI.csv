@@ -1,0 +1,6 @@
+City,Zipcode,AQI,AQI Category,Latitude,Longitude
+Los Angeles,90001,75,Moderate,34.0522,-118.2437
+San Francisco,94102,45,Good,37.7749,-122.4194
+San Diego,92101,60,Moderate,32.7157,-117.1611
+Sacramento,95814,85,Moderate,38.5816,-121.4944
+Fresno,93701,120,Unhealthy for Sensitive Groups,36.7378,-119.7871
